@@ -1,0 +1,12 @@
+#app{
+	align-items: center;
+	justify-content: space-evenly;	
+}
+.tile {
+	padding:10px;
+	display:inline-block;
+
+}
+img {
+	width:200px;
+}
